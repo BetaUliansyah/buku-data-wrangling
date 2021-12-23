@@ -14,8 +14,8 @@ sizes:
 styles:
   - name: Cream
     color: '#dfd3c2'
-    image: /images/products/elephant/cream.jpg
+    image: /images/products/Shopping_cart_icon.svg
   - name: Green
     color: '#67aa79'
-    image: /images/products/elephant/green.jpg
+    image: /images/products/Shopping_cart_icon.svg
 ---
