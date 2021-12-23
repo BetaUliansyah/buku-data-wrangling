@@ -1,14 +1,12 @@
 ---
-name: Gavin the Tiger
+name: Green Car
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
-
+  Remote control car electrical Green
 
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: '33.82'
 sku: tiger
 stock: 10
 sizes:
