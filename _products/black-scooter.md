@@ -1,15 +1,10 @@
 ---
-name: Sacha the Deer
+name: Black Scooter
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Scooter superscoop board two wheel 250W Black
 garment_type:
-price: '9.00'
-sku: deer
+price: '42.40 '
+sku: black-scooter
 stock: 10
 sizes:
   - Small
