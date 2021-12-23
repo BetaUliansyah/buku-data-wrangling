@@ -1,15 +1,10 @@
 ---
-name: Bumble the Elephant
+name: Blue Car
 description_markdown: >-
-  Bumble the humble elephant is your shining star. He will always remember who
-  you are and why you are here.
-
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Remote control car electrical Blue
 garment_type:
-price: '9.00'
-sku: elephant
+price: '22.82'
+sku: blue-car
 stock: 10
 sizes:
   - Small
