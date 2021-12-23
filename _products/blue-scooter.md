@@ -8,7 +8,7 @@ description_markdown: >-
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
 price: '42.50'
-sku: giraffe
+sku: blue-scooter
 stock: 10
 sizes:
   - Small
@@ -18,5 +18,5 @@ sizes:
 styles:
   - name: Green
     color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
+    image: /images/products/Shopping_cart_icon.svg
 ---
