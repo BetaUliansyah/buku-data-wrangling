@@ -1,7 +1,7 @@
 ---
-name: Todd the Hedgehog
+name: Brenda Doll
 description_markdown: >-
-  Todd the hedgehog may have a spiky exterior but his heart is made of gold.
+  Fashion doll female blonde 18in
   Unfortunately this weighs him down and makes it difficult for him to get
   around.
 
@@ -9,7 +9,7 @@ description_markdown: >-
 
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
-price: '9.00'
+price: '22.72'
 sku: hog
 stock: 10
 sizes:
